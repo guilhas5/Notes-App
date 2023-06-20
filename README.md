@@ -10,7 +10,7 @@ It provides a convenient way to jot down important information, reminders, or id
 - Create new notes: Users can easily create new notes by providing a title and content for each note.
 - Add notes: The app provides an interface to add notes to the list of existing notes.
 - Delete notes: Users can remove unwanted or outdated notes from the app.
--- Firebase integration: The notes created by the user are stored in Firebase's real-time database, allowing for seamless synchronization across devices.
+- Firebase integration: The notes created by the user are stored in Firebase's real-time database, allowing for seamless synchronization across devices.
 
 
 ## Demo
